@@ -1,0 +1,170 @@
+p{
+  font-family: 'Nunito', sans-serif;
+  font-weight: normal;
+  font-size: 15px;
+  color: #757575;
+  padding-left: 30px;
+}
+
+#name{
+  font-family: 'Nunito', sans-serif;
+  font-weight: bolder;
+  font-size: 25px;
+  color: #757575;
+  padding-left: 0px;
+}
+
+h3{
+  font-family: 'Nunito', sans-serif;
+  font-size: 19px;
+  color: #20602e;
+  padding-top: 10px;
+  padding-left: 25px;
+}
+
+h4{
+  font-family: 'Nunito', sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  padding-left: 25px;
+  color: #757575;
+}
+
+span{
+  padding: 10px;
+}
+
+#spanPhone{
+  padding-left: 14px;
+}
+
+#spanCity{
+  padding-left: 13px;
+}
+
+i{
+  float: left;
+}
+
+#iPhone{
+  margin-left: 3px;
+}
+
+#iLinkedin{
+  font-size: 20px;
+}
+
+#iMap{
+  font-size: 16;
+  padding-left: 2;
+}
+
+body{
+  background-color: #f1f1f1;
+}
+
+.linea{
+  margin-left: 30px;
+  width: 95%;
+  height: 1px;
+  background: linear-gradient(to right, #709a79, #757575);
+}
+
+li{
+  font-family: 'Nunito', sans-serif;
+  color: #757575;
+  list-style: none;
+}
+
+.profile img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-size: 100% auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.profile img:hover{
+  box-shadow: 0 0 0 3px #58b66d;
+}
+
+.profile{
+  margin-top: 30px;
+  margin-left: 30px;
+  float: left;
+  width: 15%;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.content{
+  margin-top: 13px;
+  float: right;
+  width: 78%;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.menu{
+  margin-top: -20px;
+}
+
+.menu a{
+  text-decoration: none;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  color: #20602e;
+}
+
+.menu button{
+  background-color: #D7D7D7;
+  height: 27px;
+  width: 75%;
+  margin-top: 15px;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-style: initial;
+  border-width: initial;
+  border-color: initial;
+}
+
+.menu button:hover{
+  color: #ffffff;
+  background: #ffffff;
+  box-shadow: 0 0 0 3px #58b66d;
+}
+
+.presentation{
+  padding-bottom: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.formation{
+  padding-bottom: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.experience{
+  padding-bottom: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.lenguages{
+  padding-bottom: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.portfolio{
+  padding-bottom: 5px;
+  height: 175px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.portfolio li img{
+  float: left;
+  list-style: none;
+  height: 130px;
+  width: 130px;
+}
